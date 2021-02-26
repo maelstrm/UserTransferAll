@@ -1,0 +1,1 @@
+swapfile.sys pagefile.sys hiberfil.sys autoexec.bat config.sys *.DAT *.DAT* *ntuser* *.OST
