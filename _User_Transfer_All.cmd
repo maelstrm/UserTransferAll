@@ -1,4 +1,7 @@
 @ECHO OFF
+@setlocal enableextenstions
+@SET LOCAL EnableDelayedExpansion
+@cd /d "%~dp0"
 REM Batch file for copying ALL user data.
 REM January 28, 2019 - Version 3.5
 REM Mike Patterson
